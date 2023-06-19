@@ -39,13 +39,8 @@
   user-select: none;
 }
 body {
-/*background-color: #000;*/
-background-image: url('https://api.ipxi.cn/wp/api.php'); 
+background-image: url(../img/body_bg.jpeg);
 background-size: cover;
-background-repeat: no-repeat;
-background-position: center;
-position: relative;
-font-family: Concert One;
 }
 
 /*
@@ -158,9 +153,9 @@ font-family: Concert One;
   height: 100%;
   border-radius: 50%;
 }
-/*.Spinner_1 {
+Spinner_1 {
   background-image: url();
-}*/
+}
 .lds-ripple {
   display: inline-block;
   position: relative;
